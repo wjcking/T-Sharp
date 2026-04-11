@@ -1,18 +1,20 @@
-SSID:	汉鼎商务酒店
-  协议:	Wi-Fi 5 (802.11ac)
-  安全类型:	开放
-  制造商:	Intel Corporation
-  描述:	Intel(R) Wi-Fi 6E AX211 160MHz
-  驱动程序版本:	23.170.1.1
-  网络波段(通道):	5 GHz (149)
-  聚合链接速度(接收/传输):	325/390 (Mbps)
-  本地链接 IPv6 地址:	fe80::7715:373a:9c2f:1c4f%5
-  IPv4 地址:	192.168.2.152
-  IPv4 默认网关：	192.168.2.1
-  IPv4 DNS 服务器:	1.1.1.1 (未加密)
-  物理地址(MAC):	BC:F1:05:78:11:CB
+SSID:
+汉鼎商务酒店
+    协议:	Wi-Fi 5 (802.11ac)
+    安全类型:	开放
+    制造商:	Intel Corporation
+    描述:	Intel(R) Wi-Fi 6E AX211 160MHz
+    驱动程序版本:	23.170.1.1
+    网络波段(通道):	5 GHz (149)
+    聚合链接速度(接收/传输):	325/390 (Mbps)
+    本地链接 IPv6 地址:	fe80::7715:373a:9c2f:1c4f%5
+    IPv4 地址:	192.168.2.152
+    IPv4 默认网关：	192.168.2.1
+    IPv4 DNS 服务器:	1.1.1.1 (未加密)
+    物理地址(MAC):	BC:F1:05:78:11:CB
 
- * Available context bindings:
+
+ * AVAILABLE CONTEXT BINDINGS:
  *   COLUMNS     List<DataColumn>
  *   ROWS        Iterable<DataRow>
  *   OUT         { append() }
